@@ -1,10 +1,10 @@
 {
-  "name": "share-connect-support",
+  "name": "FedishareButtons",
   "version": "0.0.1",
   "description": "Social buttons for distributed, self-hosted services",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/distributopia/share-connect-support.git"
+    "url": "https://gitlab.com/RiseAgainstRobots/FedishareButtons.git"
   },
   "author": "lostinlight",
   "license": "GPL-3.0",
