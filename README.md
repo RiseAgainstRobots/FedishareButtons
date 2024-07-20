@@ -1,7 +1,7 @@
 
-# :penguin: share / connect / support buttons
+# :Fedi Share Buttons
 
-`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/share-connect-support). Please, send your MRs there. Issues can still be opened here and are welcome.
+`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/share-connect-support). This is a fork to update this repo to better support a more current state of the fediverse. Commits comming soon.
 
 *You are probably tired of seeing this everywhere*
 
