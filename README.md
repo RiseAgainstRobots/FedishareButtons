@@ -1,7 +1,7 @@
 
 # :Fedi Share Buttons
 
-`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/share-connect-support). This is a fork to update this repo to better support a more current state of the fediverse. Commits comming soon.
+`WARNING`: This fork is to update this repo to better support a more current state of the fediverse. Commits comming soon.
 
 *You are probably tired of seeing this everywhere*
 
